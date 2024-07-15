@@ -46,13 +46,7 @@ const config: DocsThemeConfig = {
       }
     },
   toc: {
-    float: true,
-    extraContent:(
-
-    )
-  },
-  footer: {
-    text: 
+    float: true
   }
 }
 
